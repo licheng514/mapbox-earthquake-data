@@ -9,6 +9,7 @@ Earthquake data is available [here](https://earthquake.usgs.gov/earthquakes/feed
 # Usage
 
 1. Copy `conf/Config.example.js` to `Config.js` and add your [MapBox API](https://www.mapbox.com/studio/account/tokens/) key to it.
-2. Run `npm start` to start the web server.
-3. Visit [http://localhost:3000](http://localhost:3000) in your browser.
-4. After making changes, use `webpack` to bundle them.
+2. Run `npm installl` to install dependencies.
+3. Run `npm start` to start the web server.
+4. Visit [http://localhost:3000](http://localhost:3000) in your browser.
+5. After making changes, use `webpack` to bundle them.
